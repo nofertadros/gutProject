@@ -46,5 +46,6 @@ This project analyzes 12,562 human samples to determine the impact of antibiotic
    * `python visualize_lifestyle.py` (Vitamin & Acne Analysis)
 
 6. **Run the Product (Recommender):**
-   `python recommender.py` (Finds your "Healthy Twin")
-   `python recommender_visual.py` (Finds your "Healthy Twin on a GUI")
+   * `python recommender.py` (Finds your "Healthy Twin")
+   * `python recommender_visual.py` (Finds your "Healthy Twin on a GUI")
+
